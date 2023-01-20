@@ -1,0 +1,46 @@
+a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: rgb(43, 43, 160);
+    
+}
+nav{
+    background-color: rgb(145, 145, 196);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 45px;
+    padding-top: 22px;}
+    p{
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: blanchedalmond;
+        font-size: large;
+        
+    }
+    body{
+        background-color: blanchedalmond;
+        
+    }
+    div{
+        margin-top: 5%;
+    }
+    img{
+       
+            margin-left: 40px;
+            border-radius: 20px;
+            border-color: black;
+        }
+        table{
+            margin-left: 20%;
+        }
+        footer{
+            text-align: center;
+            background-color: blueviolet;
+            height: 50px;
+            padding-top:10px;
+        }
+   #radio-list{
+    align-items: center;
+   }
+   .submit{
+    margin-left: 130px;
+   }
